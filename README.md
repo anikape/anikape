@@ -29,7 +29,7 @@ Sejam bem-vindos(as) ao meu perfil no Github!!
 
 Projeto conjunto: ProjetoTechTeam - Sustenta Tech - Projeto vencedor do <b>HACKATON</b> primeira edição Tech Academy 2022 - StartSe University
 
-<a href="https://wellpt.github.io/TechTeamProject/" target="_blank"><img src="https://www.svgrepo.com/show/72638/link.svg" target="_blank" width="10" height="10"> Brasileiríssimo</a>
+<a href="https://wellpt.github.io/TechTeamProject/" target="_blank"><img src="https://www.svgrepo.com/show/72638/link.svg" target="_blank" width="10" height="10"> Sustenta-Tech</a>
 
 ##
 
