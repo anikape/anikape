@@ -14,6 +14,25 @@ Sejam bem-vindos(as) ao meu perfil no Github!!
 
 - Recentemente participei do Fullstack Tech-Academy course, sendo vencedora do First Hackathon. O projeto desenvolvido em equipe, em apenas 05 dias visando integrar tecnologia e sustentabilidade. Que tal conferir o resultado desse projeto incrível? #Sustenta-Tech
 ##
+
+## Projetos e contribuições em conjunto
+
+<div>
+<h3>Sustenta-Tech</h3>
+<p> 
+<a href="https://matheusxavierr.github.io/ProjetoDev/
+" target="_blank"><img src="https://www.svgrepo.com/show/72638/link.svg" target="_blank" width="10" height="10"> Brasileiríssimo</a>
+
+##
+
+## Conquistas
+
+Projeto conjunto: ProjetoTechTeam - Sustenta Tech - Projeto vencedor do <b>HACKATON</b> primeira edição Tech Academy 2022 - StartSe University
+
+<a href="https://wellpt.github.io/TechTeamProject/" target="_blank"><img src="https://www.svgrepo.com/show/72638/link.svg" target="_blank" width="10" height="10"> Brasileiríssimo</a>
+
+##
+
 ### Ferramentas e Tecnologias
 
 
