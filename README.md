@@ -24,7 +24,7 @@ Sejam bem-vindos(as) ao meu perfil no Github!!
 " target="_blank"><img src="https://www.svgrepo.com/show/72638/link.svg" target="_blank" width="10" height="10"> Brasileiríssimo</a>
 
 <h3>SouJunior</h3>
-<a href="https://www.soujunior.tech/" " target="_blank"></a>
+<a href="https://www.soujunior.tech/" " target="_blank">SouJunior</a>
 
 ##
 
